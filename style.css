@@ -1,0 +1,41 @@
+.money-image{
+    background-image: url(images/money.jpg);
+    background-repeat: no-repeat;
+    background-size:100% 100% ;
+    padding-bottom: 750px;   
+}
+.save-money-header{
+    text-align: center;
+    color: rgb(147, 164, 179);
+    font-size: 45px;
+}
+
+
+.field{
+     /* display: flex;
+     align-items: center; 
+    justify-content: center; */
+    text-align: right;
+    padding-right: 200px;
+    font-size: x-large;
+    color: rgb(147, 164, 179);;
+    padding-top: 40px;
+}
+
+.gap-content{
+    padding-bottom: 20px;
+}
+ .center-align{
+    padding-right: 90px;
+    /* text-align: center; */
+    
+    
+
+} 
+.calcuField{
+    padding-right:85px;
+    /* padding-top: px; */
+}
+.save-add-padding{
+    padding-left: 50px;
+}
